@@ -1,7 +1,3 @@
 # HiChell44github.io
------
-Hellloooooo
--Hi
-**Hi**
-![alt text](https://chicpursuit.com/cute-iphone-wallpapers/)
-theme: Jekyll-minimal
+![cute](https://www.pixelstalk.net/cute-kawaii-wallpapers-for-mobile/)
+theme: jekyll-theme-minimal
