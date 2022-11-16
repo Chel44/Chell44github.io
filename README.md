@@ -4,3 +4,4 @@ Hellloooooo
 -Hi
 **Hi**
 ![alt text](https://chicpursuit.com/cute-iphone-wallpapers/)
+theme: Jekyll-minimal
