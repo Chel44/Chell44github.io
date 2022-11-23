@@ -17,7 +17,7 @@ Welcome to my chill space, let us chill for a minute and forget about the world.
 *Schedule*
 |Monday | Tuesday | Wednesday | Thursday | Friday |
 |   :---|  :----- |:----------|:---------|:-------|
-|I need you  | Baby I love you |Langga|| Break|
+|I need you  | Baby I love you |Langga||Break|
 ---
 
 ![alt text](https://www.nawpic.com/media/2020/cute-nawpic-48.jpg)
